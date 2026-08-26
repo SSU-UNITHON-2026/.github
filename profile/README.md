@@ -120,9 +120,9 @@ sequenceDiagram
 
 | Repository | Description |
 | --- | --- |
-| [NoBoss-BE](https://github.com/NoBoss-team/NoBoss-BE) | Spring Boot 기반 백엔드 API와 AI Action 처리 |
-| [NoBoss-FE](https://github.com/NoBoss-team/NoBoss-FE) | NoBoss 웹 프론트엔드 |
-| [NoBoss-AI](https://github.com/NoBoss-team/NoBoss-AI) | 자연어 이해와 구조화된 Action Proposal 생성 |
+| [NoBoss-BE](https://github.com/SSU-UNITHON-2026/NoBoss-BE) | Spring Boot 기반 백엔드 API와 AI Action 처리 |
+| [NoBoss-FE](https://github.com/SSU-UNITHON-2026/NoBoss-FE) | NoBoss 웹 프론트엔드 |
+| [NoBoss-AI](https://github.com/SSU-UNITHON-2026/NoBoss-AI) | 자연어 이해와 구조화된 Action Proposal 생성 |
 
 ### 주요 API
 
