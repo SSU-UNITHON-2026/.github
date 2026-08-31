@@ -35,7 +35,19 @@ NOBOSS는 프로젝트 문맥을 이해하는 AI를 통해 반복되는 관리 �
 
 <br />
 
-## 📱 주요 기능
+## � 시연 영상
+
+<div align="center">
+
+[![NOBOSS 시연 영상](https://img.youtube.com/vi/nhQ-sY05SIM/maxresdefault.jpg)](https://www.youtube.com/watch?v=nhQ-sY05SIM)
+
+[NOBOSS 시연 영상 보기](https://www.youtube.com/watch?v=nhQ-sY05SIM)
+
+</div>
+
+<br />
+
+## �📱 주요 기능
 
 ### 1. ⚙️ 팀 프로젝트 설정
 
